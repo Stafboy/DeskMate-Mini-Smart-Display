@@ -144,4 +144,4 @@ On first boot the display shows **DeskMate Mini / Smart Display** and attempts t
 - Weather updates every 10 minutes while awake, every hour while the screen is sleeping.
 - The display auto-dims after 5 minutes of inactivity.
 - High scores are saved to EEPROM and persist across reboots.
-- Crypto data uses the free Kraken public API (no key needed) for BTC and PAXG, and Yahoo Finance for SPY.
+- Crypto data uses the free Kraken public API (no key needed) for BTC and PAXG, and Yahoo Finance for SPY.  -> these can be changed but that will take some coding skills (tip: use claude ai)

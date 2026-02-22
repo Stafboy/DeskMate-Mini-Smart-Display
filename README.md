@@ -78,7 +78,7 @@ To get these values, follow the steps below.
 1. Go to [https://developer.spotify.com/dashboard](https://developer.spotify.com/dashboard) and log in.
 2. Click **Create App**.
 3. Give it any name and description.
-4. Set the **Redirect URI** to `http://localhost:8888/callback`
+4. Set the **Redirect URI** to `http://127.0.0.1:8888/callback`
 5. Click **Save**.
 6. On the app page, you will see your **Client ID** and **Client Secret** — copy these into `SP_ID` and `SP_SECRET`.
 

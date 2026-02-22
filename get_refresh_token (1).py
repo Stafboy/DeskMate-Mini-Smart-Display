@@ -26,7 +26,7 @@ import requests
 # Fill these in with your Spotify app credentials
 CLIENT_ID     = "YOUR_SPOTIFY_CLIENT_ID"
 CLIENT_SECRET = "YOUR_SPOTIFY_CLIENT_SECRET"
-REDIRECT_URI  = "http://localhost:8888/callback"
+REDIRECT_URI  = "http://127.0.0.1:8888/callback"
 # -------------------------------------------------------------------
 
 SCOPE = "user-read-playback-state user-modify-playback-state"

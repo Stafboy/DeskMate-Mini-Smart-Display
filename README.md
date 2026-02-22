@@ -8,9 +8,12 @@ A feature-rich ESP32 smart display with animated robot eyes, clock, weather, Spo
 ## Hardware
 **Hardware:** i used a Wemos Lite V1 ESP32, and connected a small 650mah 1s lithium ion battery pack to the esp to make it portable but this is optional
 
-**buttons:** 3 6x6x12 buttons
+**buttons:** 3 6x6x12 tactile push button
+
+**switch:** 15x10mm switch
 
 **Display:** SSD1306 128x64 I2C OLED (1.54inch)
+
 
 
 | Component | Pin |

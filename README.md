@@ -20,6 +20,9 @@ A feature-rich ESP32 smart display with animated robot eyes, clock, weather, Spo
 | Buzzer | GPIO 17 |
 
 **Display:** SSD1306 128x64 I2C OLED (1.54inch)
+**buttons:** 3 6*6*12 buttons
+
+
 
 ---
 

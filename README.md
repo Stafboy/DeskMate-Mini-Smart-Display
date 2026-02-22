@@ -35,7 +35,7 @@ Install these via Arduino IDE > Library Manager:
 
 ## Configuration
 
-Before uploading, open `roboeyes_v19.ino` and fill in the following placeholders near the top of the file:
+Before uploading, open `Deskmate_code.ino` and fill in the following placeholders near the top of the file:
 
 ### 1. WiFi
 

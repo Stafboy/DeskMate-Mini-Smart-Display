@@ -3,6 +3,8 @@
 A feature-rich ESP32 smart display with animated robot eyes, clock, weather, Spotify integration, crypto prices, games, and more — running on a 128x64 OLED screen.
 ---
 
+![DeskMate](IMG_8556.JPG)
+
 ## Hardware
 **Hardware:** i used a Wemos Lite V1 ESP32, and connected a small 650mah 1s lithium ion battery pack to the esp to make it portable but this is optional
 

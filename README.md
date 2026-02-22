@@ -1,7 +1,6 @@
 # DeskMate Mini Smart Display
 
 A feature-rich ESP32 smart display with animated robot eyes, clock, weather, Spotify integration, crypto prices, games, and more — running on a 128x64 OLED screen.
--> i used a Wemos Lite V1 ESP32, and connected a small 650mah 1s lithium ion battery pack to the esp to make it portable but this is optional
 ---
 
 ## Hardware
@@ -17,6 +16,7 @@ A feature-rich ESP32 smart display with animated robot eyes, clock, weather, Spo
 | Buzzer | GPIO 17 |
 
 **Display:** SSD1306 128x64 I2C OLED (1.54inch)
+-> i used a Wemos Lite V1 ESP32, and connected a small 650mah 1s lithium ion battery pack to the esp to make it portable but this is optional
 
 ---
 
